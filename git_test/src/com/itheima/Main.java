@@ -12,5 +12,6 @@ public class Main {
     public void test(){
         int i = 10;
         System.out.println(i);
+        System.out.println("bbbbccccc");
     }
 }

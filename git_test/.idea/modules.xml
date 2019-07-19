@@ -3,10 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/git_test.iml" filepath="$PROJECT_DIR$/git_test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ssm_day2_parent/maven_day02_dao/maven_day02_dao.iml" filepath="$PROJECT_DIR$/../ssm_day2_parent/maven_day02_dao/maven_day02_dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ssm_day2_parent/maven_day02_service/maven_day02_service.iml" filepath="$PROJECT_DIR$/../ssm_day2_parent/maven_day02_service/maven_day02_service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ssm_day2_parent/maven_day02_web/maven_day02_web.iml" filepath="$PROJECT_DIR$/../ssm_day2_parent/maven_day02_web/maven_day02_web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ssm_day2_parent/ssm_day2_parent.iml" filepath="$PROJECT_DIR$/../ssm_day2_parent/ssm_day2_parent.iml" />
     </modules>
   </component>
 </project>

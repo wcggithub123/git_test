@@ -16,15 +16,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="maven_day02_web" />
         <module name="maven_day02_dao" />
         <module name="maven_day02_service" />
+        <module name="maven_day02_web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hotel-dao" target="1.5" />
+      <module name="hotel-domain" target="1.5" />
+      <module name="hotel-service" target="1.5" />
+      <module name="hotel-utils" target="1.5" />
+      <module name="hotel-web" target="1.7" />
       <module name="maven_day02_dao" target="1.5" />
       <module name="maven_day02_service" target="1.5" />
       <module name="maven_day02_web" target="1.5" />
+      <module name="mybatis" target="1.5" />
       <module name="ssm_day2_parent" target="1.5" />
     </bytecodeTargetLevel>
   </component>

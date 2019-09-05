@@ -16,16 +16,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="maven_day02_dao" />
         <module name="maven_day02_service" />
+        <module name="hotel-domain" />
+        <module name="maven_day02_dao" />
+        <module name="hotel-dao" />
+        <module name="hotel-web" />
         <module name="maven_day02_web" />
+        <module name="hotel-utils" />
+        <module name="hotel-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hotel-dao" target="1.5" />
-      <module name="hotel-domain" target="1.5" />
-      <module name="hotel-service" target="1.5" />
-      <module name="hotel-utils" target="1.5" />
+      <module name="hotel-dao" target="1.8" />
+      <module name="hotel-domain" target="1.8" />
+      <module name="hotel-management" target="1.5" />
+      <module name="hotel-service" target="1.8" />
+      <module name="hotel-utils" target="1.8" />
       <module name="hotel-web" target="1.7" />
       <module name="maven_day02_dao" target="1.5" />
       <module name="maven_day02_service" target="1.5" />

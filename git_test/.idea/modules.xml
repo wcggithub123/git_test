@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/git_test.iml" filepath="$PROJECT_DIR$/git_test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../hotelmanage/hotel-management/hotel-dao/hotel-dao.iml" filepath="$PROJECT_DIR$/../../hotelmanage/hotel-management/hotel-dao/hotel-dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../hotelmanage/hotel-management/hotel-domain/hotel-domain.iml" filepath="$PROJECT_DIR$/../../hotelmanage/hotel-management/hotel-domain/hotel-domain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../hotelmanage/hotel-management/hotel-service/hotel-service.iml" filepath="$PROJECT_DIR$/../../hotelmanage/hotel-management/hotel-service/hotel-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../hotelmanage/hotel-management/hotel-utils/hotel-utils.iml" filepath="$PROJECT_DIR$/../../hotelmanage/hotel-management/hotel-utils/hotel-utils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../hotelmanage/mybatis.iml" filepath="$PROJECT_DIR$/../../hotelmanage/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-dao/hotel-dao.iml" filepath="$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-dao/hotel-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-domain/hotel-domain.iml" filepath="$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-domain/hotel-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-management.iml" filepath="$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-service/hotel-service.iml" filepath="$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-service/hotel-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-utils/hotel-utils.iml" filepath="$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-utils/hotel-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-web/hotel-web.iml" filepath="$PROJECT_DIR$/../../JavaEE4/hotel-management/hotel-web/hotel-web.iml" />
     </modules>
   </component>
 </project>

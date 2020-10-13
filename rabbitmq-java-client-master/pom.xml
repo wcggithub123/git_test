@@ -59,7 +59,7 @@
     <micrometer.version>1.2.0</micrometer.version>
     <jackson.version>2.9.9.3</jackson.version>
     <logback.version>1.2.3</logback.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <awaitility.version>3.1.6</awaitility.version>
     <mockito.version>3.0.0</mockito.version>
     <assertj.version>3.12.2</assertj.version>
